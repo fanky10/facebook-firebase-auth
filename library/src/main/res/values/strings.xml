@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Facebook Firebase Integration Library</string>
+    <string name="facebook_app_id">Override this value</string>
+    <string name="facebook_app_name">@string/app_name</string>
 </resources>
